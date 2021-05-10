@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/JElmanoAf/APICalculadora-Swagger/issues"
   },
-  "homepage": "https://github.com/JElmanoAf/APICalculadora-Swagger#readme"
+  "homepage": "https://github.com/JElmanoAf/APICalculadora-Swagger#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "swagger-jsdoc": "*",
+    "swagger-ui-express": "^4.1.6"
+  }
 }
